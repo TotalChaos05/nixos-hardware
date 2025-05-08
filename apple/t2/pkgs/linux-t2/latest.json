@@ -1,9 +1,9 @@
 {
-  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/60a2912ad2d05f8a2d6c68a94641d912c3a555fd/",
+  "base_url": "https://raw.githubusercontent.com/t2linux/linux-t2-patches/8f63b9d850be7cc71b60a772a3b163fb74441480/",
   "patches": [
     {
       "name": "1001-Add-apple-bce-driver.patch",
-      "hash": "sha256-e3RPvWPj2QASGOS4kieO8YFekrXsBCJtfF82OPlOn2E="
+      "hash": "sha256-EJveJfBQ3AEIW72CvDhIPoxB4QGMMjtcLqcBC44kJrM="
     },
     {
       "name": "1002-Put-apple-bce-in-drivers-staging.patch",
@@ -15,7 +15,7 @@
     },
     {
       "name": "1006-HID-hid-appletb-kbd-add-driver-for-the-keyboard-mode.patch",
-      "hash": "sha256-eVEuvnoRItaDjwWu41nn9bTkgHgY+1SL/hFAvUR2IlY="
+      "hash": "sha256-6U18R5FKMjZNZu+2cEBYrfBw4+FL3GpOvfFIUMrH1JI="
     },
     {
       "name": "1007-HID-multitouch-support-getting-the-contact-ID-from.patch",
@@ -38,12 +38,16 @@
       "hash": "sha256-TJjXAlQ4WEROnq/xd6/4JHTuEJjqT7dLLcE4etKdzc0="
     },
     {
+      "name": "1013-lib-vsprintf-Add-support-for-generic-FourCCs-by-exte.patch",
+      "hash": "sha256-GnIbdE5U+J9LnMjL38eGiV7yf5vmFN9aJ8Zz6N6bEbE="
+    },
+    {
       "name": "1014-drm-format-helper-Add-conversion-from-XRGB8888-to-BG.patch",
       "hash": "sha256-Ky19+cCiYDaHBh2o5IhZO8J1ExDT7o8K9cgPz+AL8Cg="
     },
     {
       "name": "1015-drm-tiny-add-driver-for-Apple-Touch-Bars-in-x86-Macs.patch",
-      "hash": "sha256-Ga0LlaS1jWTXSKh1ClcETPJctAymC6jYBQK9wwDU4Xs="
+      "hash": "sha256-+9T+jYQIS9TE5JFi6k+/Rh7kl/99lAvP3C9MP/8Dht0="
     },
     {
       "name": "2008-i915-4-lane-quirk-for-mbp15-1.patch",
@@ -91,7 +95,7 @@
     },
     {
       "name": "4001-asahi-trackpad.patch",
-      "hash": "sha256-yfkTKKokb/+JtTwE0Dzht14S0nrSIwLFAFND90P/Cis="
+      "hash": "sha256-A5xnHgMvKUUGPanIO/qXqIaNfT1xOXyIxcHjmC+khaA="
     },
     {
       "name": "4002-HID-quirks-remove-T2-devices-from-hid_mouse_ignore_l.patch",
@@ -119,7 +123,7 @@
     },
     {
       "name": "8001-Add-APFS-driver.patch",
-      "hash": "sha256-py4DNKBsUWvw6o730ApmNdUlSyabOFnFDoAPrF40DNE="
+      "hash": "sha256-b1iYJXWJ6CKX6HyOwQgmmyL1quE6XWkJ7v0g1QsMq7o="
     },
     {
       "name": "8002-Necessary-modifications-to-build-APFS-with-the-kerne.patch",
