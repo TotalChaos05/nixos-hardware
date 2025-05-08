@@ -44,6 +44,8 @@
         asus-rog-strix-x570e = import ./asus/rog-strix/x570e;
         asus-zenbook-ux371 = import ./asus/zenbook/ux371;
         asus-zenbook-ux535 = import ./asus/zenbook/ux535;
+        asus-zenbook-ux481-intelgpu = import ./asus/zenbook/ux481/intelgpu;
+        asus-zenbook-ux481-nvidia = import ./asus/zenbook/ux481/nvidia;
         asus-zephyrus-ga401 = import ./asus/zephyrus/ga401;
         asus-zephyrus-ga402 = import ./asus/zephyrus/ga402;
         asus-zephyrus-ga402x = import ./asus/zephyrus/ga402x;
@@ -130,6 +132,7 @@
         focus-m2-gen1 = import ./focus/m2/gen1;
         gigabyte-b550 = import ./gigabyte/b550;
         gigabyte-b650 = import ./gigabyte/b650;
+        gmktec-nucbox-g3-plus = import ./gmktec/nucbox/g3-plus;
         google-pixelbook = import ./google/pixelbook;
         gpd-micropc = import ./gpd/micropc;
         gpd-p2-max = import ./gpd/p2-max;
@@ -178,6 +181,8 @@
         lenovo-thinkpad-a475 = import ./lenovo/thinkpad/a475;
         lenovo-thinkpad-e14-amd = import ./lenovo/thinkpad/e14/amd;
         lenovo-thinkpad-e14-intel = import ./lenovo/thinkpad/e14/intel;
+        lenovo-thinkpad-e14-intel-gen4 = import ./lenovo/thinkpad/e14/intel/gen4;
+        lenovo-thinkpad-e14-intel-gen6 = import ./lenovo/thinkpad/e14/intel/gen6;
         lenovo-thinkpad-e15-intel = import ./lenovo/thinkpad/e15/intel;
         lenovo-thinkpad-e470 = import ./lenovo/thinkpad/e470;
         lenovo-thinkpad-e495 = import ./lenovo/thinkpad/e495;
@@ -196,6 +201,7 @@
         lenovo-thinkpad-p14s-intel-gen5 = import ./lenovo/thinkpad/p14s/intel/gen5;
         lenovo-thinkpad-p16s-amd-gen1 = import ./lenovo/thinkpad/p16s/amd/gen1;
         lenovo-thinkpad-p16s-amd-gen2 = import ./lenovo/thinkpad/p16s/amd/gen2;
+        lenovo-thinkpad-p16s-intel-gen2 = import ./lenovo/thinkpad/p16s/intel/gen2;
         lenovo-thinkpad-p43s = import ./lenovo/thinkpad/p43s;
         lenovo-thinkpad-p50 = import ./lenovo/thinkpad/p50;
         lenovo-thinkpad-p51 = import ./lenovo/thinkpad/p51;
@@ -232,6 +238,7 @@
         lenovo-thinkpad-x1 = import ./lenovo/thinkpad/x1;
         lenovo-thinkpad-x1-yoga = import ./lenovo/thinkpad/x1/yoga;
         lenovo-thinkpad-x1-yoga-7th-gen = import ./lenovo/thinkpad/x1/yoga/7th-gen;
+        lenovo-thinkpad-x1-yoga-8th-gen = import ./lenovo/thinkpad/x1/yoga/8th-gen;
         lenovo-thinkpad-x1-2nd-gen = import ./lenovo/thinkpad/x1/2nd-gen;
         lenovo-thinkpad-x1-6th-gen = import ./lenovo/thinkpad/x1/6th-gen;
         lenovo-thinkpad-x1-7th-gen = import ./lenovo/thinkpad/x1/7th-gen;
